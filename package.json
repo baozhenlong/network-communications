@@ -1,0 +1,31 @@
+{
+    "name": "network-communications",
+    "version": "1.0.0",
+    "description": "+ WebSocket + 框架设计",
+    "main": "index.js",
+    "directories": {
+        "doc": "doc"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+        "install.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/baozhenlong/network-communications.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/baozhenlong/network-communications/issues"
+    },
+    "homepage": "https://github.com/baozhenlong/network-communications#readme",
+    "devDependencies": {
+        "eslint": "^8.12.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.25.4"
+    }
+}
